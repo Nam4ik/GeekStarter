@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V5O/E32t2ko=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arcan\\OneDrive\\Документы\\Geek\\Mobile\\Android\\AndroidGeek\\AndroidGeek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arcan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
