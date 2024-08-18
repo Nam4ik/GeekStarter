@@ -1,13 +1,17 @@
 # GeekStarter
 
 <p align="center">
-<img src = "
-  
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/web-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
 
   <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/static/v1?label=License&message=CC+BY-SA+4.0&color=%23c49b04&style=for-the-badge"></a>
   <a href="https://GitHub.com/Nam4ik"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-  <a href="https://discord.gg/Nam4ik"><img src="https://dcbadge.limes.pink/api/server/https://discord.gg/Nam4ik)](https://discord.gg/Nam4ik"></a>
+  <a href="https://discord.gg/F34Z9UsMmg"><img src="https://dcbadge.limes.pink/api/server/https://discord.gg/F34Z9UsMmg)](https://discord.gg/F34Z9UsMmg"></a>
+  <a href="https://t.me/ArcaneDevStudio"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/Nam4iks"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://www.reddit.com/user/Ok-Tehnology-6743"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -19,5 +23,3 @@
 ## Overview
 GeekStarter is a new Russian startup created by ArcaneDev desktop software development studio. 
 It is a stackoverflow-type technical forum and is also a hub for all technical articles from Habr, Stack owerflow and other forums. (They will be improved and transferred to our site) Thanks to AI search, it will be easier for you to find them. You will also be able to communicate with the voice assistant about small mistakes or for advice in a particular IT field.  There will be ports for Android, ios, linux and Windows respectively. And this is just a small part of all the functions!
-
-  
