@@ -58,10 +58,13 @@ It is a stackoverflow-type technical forum and is also a hub for all technical a
 **Geekstarter will have a theme editor** _(non code and code ver.)_. Or u can choose other theme in store. <br> Already now, the geekstarter community can change its profiles to the point of unrecognisability. <br> For example, the same theme editor works on the profile, with the help of the code editor you can make any design, including interactive.
 But it is not all! **With extentions u can add new functions to GeekStarter** _(edit GUi or create CLI like on linux)_
 ## Extentions dev
-U can create extention with python using GeekExlib 
+U can create extention with python using GeekExlib <br>
 **Просто напоминание доделать это когда закончу**
 
 ## Other Arcane and Nam4ik projects
 
 ## Thanks to contributors
-Gleb with Evolve AI
+<a href="https://github.com/Nam4ik"><img src="https://avatars.githubusercontent.com/u/141244501?s=400&u=f5ff0464c429a8c69605073e84d8272cf5f74b5e&v=4" title="Nam4ikDev" width="80" height="80"></a>
+<a href="https://github.com/ArcaneDevStudio"><img src="/README/ARCANE.jpg" title="ArcaneDevStudio" width="80" height="80"></a>
+<a href="https://github.com/glebkrasnov2011"><img src="https://avatars.githubusercontent.com/u/169712916?v=4" title="Gleb" width="80" height="80"></a>
+<a href="https://t.me/evolve_ai"><img src="/README/EVOLVE.jpg" title="EvolveAI" width="80" height="80"></a>
