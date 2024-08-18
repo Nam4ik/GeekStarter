@@ -1,4 +1,4 @@
-![изображение](https://github.com/user-attachments/assets/1de00e50-a88f-4670-9430-45e7098172e8)# GeekStarter
+# GeekStarter
 <img src="/README/IMG_5723.jpeg"> 
 <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
@@ -62,12 +62,12 @@ U can create extention with python using GeekExlib <br>
 **Просто напоминание доделать это когда закончу**
 
 ## Other Arcane and Nam4ik projects
-**More about projects in tg or reddit**<a href="https://t.me/ArcaneDevStudio"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://Github.com/linuxterminallib-for-py"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXgZoJQX06-PRTwxyrRyBobEFTByYZb_6I2gAFaAGxRfZ6sCwd2VQdnTQy2yvwoWRoWD8&usqp=CAU"></a>
+**More about projects in tg or reddit**            <a href="https://t.me/ArcaneDevStudio"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://Github.com/linuxterminallib-for-py"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXgZoJQX06-PRTwxyrRyBobEFTByYZb_6I2gAFaAGxRfZ6sCwd2VQdnTQy2yvwoWRoWD8&usqp=CAU" width="80" height="80"></a>
 **LinuxterminallibPY**<br>
-<a href="https://t.me/ArcaneDevStudio/20"><img src="/README/athena.jpg"></a>
+<a href="https://t.me/ArcaneDevStudio/20"><img src="/README/athena.jpg" width="80" height="80"></a>
 **Athena - voice helper engine**<br>
-<a href="https://t.me/Arcane_tmod"><img src="/README/ArcaneMod.jpg"></a>
+<a href="https://t.me/Arcane_tmod"><img src="/README/ArcaneMod.jpg" width="80" height="80"></a>
 [**ArcaneMod**](https://Github.com/Nam4ik/ArcaneMod)
 ## Thanks to contributors
 <a href="https://github.com/Nam4ik"><img src="https://avatars.githubusercontent.com/u/141244501?s=400&u=f5ff0464c429a8c69605073e84d8272cf5f74b5e&v=4" title="Nam4ikDev" width="80" height="80"></a>
