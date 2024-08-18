@@ -1,5 +1,5 @@
 # GeekStarter
-<img src="/README/IMG_5723.jpeg">
+<img src="/README/IMG_5723.jpeg"> 
 <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/web-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white">
@@ -23,3 +23,45 @@
 ## Overview
 GeekStarter is a new Russian startup created by ArcaneDev desktop software development studio. 
 It is a stackoverflow-type technical forum and is also a hub for all technical articles from Habr, Stack owerflow and other forums. (They will be improved and transferred to our site) Thanks to AI search, it will be easier for you to find them. You will also be able to communicate with the voice assistant about small mistakes or for advice in a particular IT field.  There will be ports for Android, ios, linux and Windows respectively. And this is just a small part of all the functions!
+## Functions
+- [ ] - in work
+- [x] - Ready for use
+-----------------------------------------------------------------------
+- [ ] - File storage (like github)
+
+- [ ] - Habr and owerflow articles (more in overview)
+
+- [ ] - other thchnical forum
+
+- [ ] - GeekAI
+
+- [ ] - Git support
+
+- [ ] - IOS app
+
+- [ ] - Android app
+
+- [ ] - Social media part geekS
+
+- [ ] - design
+
+- [ ] - rework AI
+
+- [ ] - projectHUB
+    
+- [ ] - GeekStore
+# Features and support
+> [!NOTE]
+> ArcaneDev it little studios with small finances, this project wery hard to realisation also with [EvolveAI](https://t.me/EvolveAI) and [Nam4ik](https://t.me/Nam4iks). If u have opportunity pleace [help us](https://www.donationalerts.com/r/arcanedev)
+
+## Extentions and Customization
+**Geekstarter will have a theme editor** _(non code and code ver.)_. Or u can choose other theme in store. <br> Already now, the geekstarter community can change its profiles to the point of unrecognisability. <br> For example, the same theme editor works on the profile, with the help of the code editor you can make any design, including interactive.
+But it is not all! **With extentions u can add new functions to GeekStarter** _(edit GUi or create CLI like on linux)_
+## Extentions dev
+U can create extention with python using GeekExlib 
+**Просто напоминание доделать это когда закончу**
+
+## Other Arcane and Nam4ik projects
+
+## Thanks to contributors
+Gleb with Evolve AI
