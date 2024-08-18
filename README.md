@@ -4,7 +4,7 @@
 <img src = "
   
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-  <a href="https://www.apple.com/app-store/"<img src="https://cdn.worldvectorlogo.com/logos/apple-android.svg"></a>
+
   <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/static/v1?label=License&message=CC+BY-SA+4.0&color=%23c49b04&style=for-the-badge"></a>
   <a href="https://GitHub.com/Nam4ik"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
   <a href="https://discord.gg/Nam4ik"><img src="https://dcbadge.limes.pink/api/server/https://discord.gg/Nam4ik)](https://discord.gg/Nam4ik"></a>
