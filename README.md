@@ -66,5 +66,5 @@ U can create extention with python using GeekExlib <br>
 ## Thanks to contributors
 <a href="https://github.com/Nam4ik"><img src="https://avatars.githubusercontent.com/u/141244501?s=400&u=f5ff0464c429a8c69605073e84d8272cf5f74b5e&v=4" title="Nam4ikDev" width="80" height="80"></a>
 <a href="https://github.com/ArcaneDevStudio"><img src="/README/ARCANE.jpg" title="ArcaneDevStudio" width="80" height="80"></a>
-<a href="https://github.com/glebkrasnov2011"><img src="https://avatars.githubusercontent.com/u/169712916?v=4" title="Gleb" width="80" height="80"></a>
-<a href="https://t.me/evolve_ai"><img src="/README/EVOLVE.jpg" title="EvolveAI" width="80" height="80"></a>
+<a href="https://github.com/glebkrasnov2011"><img src="/README/STUL.jpg" title="Gleb" width="80" height="80"></a>
+<a href="https://t.me/evolve_ai"><img src="https://avatars.githubusercontent.com/u/169712916?v=4" title="EvolveAI" width="80" height="80"></a>
