@@ -62,7 +62,7 @@ U can create extention with python using GeekExlib <br>
 **Просто напоминание доделать это когда закончу**
 
 ## Other Arcane and Nam4ik projects
-**More about projects in tg or reddit**            <a href="https://t.me/ArcaneDevStudio"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
+**More about projects in tg or reddit**            <a href="https://t.me/ArcaneDevStudio"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a><br>
 <a href="https://Github.com/linuxterminallib-for-py"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXgZoJQX06-PRTwxyrRyBobEFTByYZb_6I2gAFaAGxRfZ6sCwd2VQdnTQy2yvwoWRoWD8&usqp=CAU" width="80" height="80"></a>
 **LinuxterminallibPY**<br>
 <a href="https://t.me/ArcaneDevStudio/20"><img src="/README/athena.jpg" width="80" height="80"></a>
