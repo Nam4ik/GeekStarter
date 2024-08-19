@@ -59,7 +59,7 @@ It is a stackoverflow-type technical forum and is also a hub for all technical a
 But it is not all! **With extentions u can add new functions to GeekStarter** _(edit GUi or create CLI like on linux)_
 ## Extentions dev
 U can create extention with python using GeekExlib <br>
-**Просто напоминание доделать это когда закончу**
+**In dev now! 🔨**
 
 ## Other Arcane and Nam4ik projects
 **More about projects in tg or reddit**            <a href="https://t.me/ArcaneDevStudio"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a><br>
